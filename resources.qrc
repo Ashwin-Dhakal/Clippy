@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/exit.png</file>
+        <file>img/New.png</file>
+        <file>img/open-file.png</file>
+        <file>img/copy.png</file>
+        <file>img/icon-training.png</file>
+        <file>img/paste_icon.png</file>
+        <file>img/tw.mobileapp.qrcode.banner.png</file>
+    </qresource>
+</RCC>
