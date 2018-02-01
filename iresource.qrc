@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/ir">
+        <file>Tool_icons/copy.png</file>
+        <file>Tool_icons/exit.png</file>
+        <file>Tool_icons/icon-training.png</file>
+        <file>Tool_icons/New.png</file>
+        <file>Tool_icons/open-file.png</file>
+        <file>Tool_icons/paste_icon.png</file>
+        <file>Tool_icons/tw.mobileapp.qrcode.banner.png</file>
+        <file>Tool_icons/Delete_Icon.png</file>
+        <file>Tool_icons/clipboard-flat.png</file>
+        <file>Tool_icons/gaussian_blur_gradient_simple_background_blurred_colors_m62699.jpg</file>
+        <file>Tool_icons/Pattern-Orange-Blue-Sky-background-patterns-pattern-wallpapers-480x800.jpg</file>
+        <file>Tool_icons/B.png</file>
+        <file>clipboard-flat.ico</file>
+        <file>Tool_icons/very-basic-print-icon.png</file>
+        <file>Tool_icons/computer-wallpaper-websites-23.jpg</file>
+        <file>Tool_icons/white-background-5.jpg</file>
+        <file>Tool_icons/B opa.jpg</file>
+        <file>Tool_icons/Bopa kam.jpg</file>
+    </qresource>
+</RCC>
