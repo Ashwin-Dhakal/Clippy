@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/Digital-circuits-Logonscreen-Designfjotten-Edition.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>img/Digital-circuits-Logonscreen-Designfjotten-Edition.jpg</file>
+    </qresource>
+</RCC>
